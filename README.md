@@ -16,3 +16,11 @@ Deep Learning course at Hallym University
 * 수치적 Gradient 구하기 (1D/2D)
 * Gradient Descent Algorithm
 * Simple Network
+
+## Framework
+* AND Gate with Keras
+* XOR Gate with Keras
+* Fashion MNIST
+
+## Case Study
+* Hand pose estimation
